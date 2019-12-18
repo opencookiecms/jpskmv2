@@ -1,0 +1,9 @@
+RewriteEngine On
+
+
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
+
+##Error document setting
+ErrorDocument 404  /jpskmv2/404.php
+ErrorDocument 403  /jpskmv2/403.php

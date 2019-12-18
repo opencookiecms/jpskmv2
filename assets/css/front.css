@@ -1,0 +1,90 @@
+.frontpanel{
+  display: block;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+  background-color: #fff;
+  margin-top: 17%;
+  border-radius: 0px;
+
+
+
+
+}
+
+.front-body {
+  margin-bottom: @line-height-computed;
+  background-color: @panel-bg;
+  border: 1px solid transparent;
+border-radius:0px;
+  .box-shadow(0 1px 1px rgba(0,0,0,.05));
+  padding: 10px;
+  height: 379px;
+  b
+}
+
+.front-body2 {
+  margin-bottom: 5px;
+  background-color: #fff;
+  border: 1px solid transparent;
+border-radius: 0px;
+  .box-shadow(0 1px 1px rgba(0,0,0,.05));
+  padding: 10px;
+  height: 381px;
+  b
+}
+
+
+
+.front-heading {
+    padding: 10px 15px;
+    border-bottom: 1px solid transparent;
+
+    background-color: #4885ed;
+}
+
+.front-title {
+    color:#fff;
+    margin-top: 0;
+margin-bottom: 0;
+font-size: 18px;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+
+.panel-heading2 {
+    padding: 10px 15px;
+  border-bottom: 1px solid transparent;
+
+    background-color: #3cba54  ;
+}
+
+.clearpaddingx
+{
+  padding: 0px;
+}
+
+.log-border{
+  border-left: 1px;
+  border-color: #ddd;
+}
+
+.log-border2{
+  border-right: 1px;
+border-bottom: 1px solid transparent;
+  border-color: #ddd;
+}
+
+
+.addpadding{
+padding-top: 50px;
+}
+
+.logoss{
+  position: relative;
+  top: -20px;
+  left: 70px;
+
+}
+
+.no-radius{
+  border-radius: none;
+}

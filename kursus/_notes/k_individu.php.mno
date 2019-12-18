@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_viwe" value="name:usrId;datatype:int,name:usrName;datatype:string,name:usrIcNo;datatype:string,name:Jawatan;datatype:string,name:GredJawatan;datatype:string,name:userUnit;datatype:string,name:jmKhdir;datatype:int,name:usersgroups;datatype:int" />
+</info>

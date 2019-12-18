@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_WPL" value="name:wplID;datatype:int,name:Nama;datatype:string,name:Jawatan;datatype:string" />
+	<infoitem key="UD_PL" value="name:plID;datatype:int,name:Nama;datatype:string,name:Jawatan;datatype:string" />
+</info>

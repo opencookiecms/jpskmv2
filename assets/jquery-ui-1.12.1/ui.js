@@ -1,0 +1,17 @@
+$('#date').datepicker({dateFormat: 'yy-mm-dd'});
+$('#date1').datepicker({dateFormat: 'yy-mm-dd'});
+$('#date2').datepicker({dateFormat: 'yy-mm-dd'});
+$('#date3').datepicker({dateFormat: 'yy-mm-dd'});
+$('#date4').datepicker({dateFormat: 'yy-mm-dd'});
+$('#date5').datepicker({dateFormat: 'yy-mm-dd'});
+$('#date6').datepicker({dateFormat: 'yy-mm-dd'});
+$('#date7').datepicker({dateFormat: 'yy-mm-dd'});
+$('#date8').datepicker({dateFormat: 'yy-mm-dd'});
+$('#date9').datepicker({dateFormat: 'yy-mm-dd'});
+$('#date10').datepicker({dateFormat: 'yy-mm-dd'});
+$('#date11').datepicker({dateFormat: 'yy-mm-dd'});
+$('#date12').datepicker({dateFormat: 'yy-mm-dd'});
+$('#date14').datepicker({dateFormat: 'yy-mm-dd'});
+$('#date13').datepicker({dateFormat: 'yy-mm-dd'});
+$('#date40').datepicker({dateFormat: 'yy-mm-dd'});
+$('#date41').datepicker({dateFormat: 'yy-mm-dd'});

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<info>
+	<infoitem key="UD_WPL" value="name:wplID;datatype:int,name:Nama;datatype:string,name:Jawatan;datatype:string" />
+	<infoitem key="UD_PL" value="name:plID;datatype:int,name:Nama;datatype:string,name:Jawatan;datatype:string" />
+	<infoitem key="UD_laporaindi" value="name:usrName;datatype:string,name:usrIcNo;datatype:string,name:Jawatan;datatype:string,name:GredJawatan;datatype:string,name:KusName;datatype:string,name:KusBegin;datatype:date,name:kusEnd;datatype:date,name:kusTempat;datatype:string,name:kusTahun;datatype:int,name:kurHari;datatype:int,name:Kehadiran;datatype:string,name:jumlahHadir;datatype:int,name:hari;datatype:int,name:jmKhdir;datatype:int" />
+</info>
